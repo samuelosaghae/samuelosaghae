@@ -6,7 +6,9 @@
   - [Analytic Comparison of the 2021 and 2022 data on Covid-19 affected regions using K Means clustering.](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Predicting loan cases using Decision Tree for Dream Housing Finance company.] 
   -  Sentimental analysis on IMDB Movies. 
-  -  Statistical Analysis on the Survival from Malignant Melanomal  data set 
+  -  Statistical Analysis on the Survival from Malignant Melanomal  data set
+  -  
+<h2> Certification :</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
